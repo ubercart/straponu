@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Buy Strap-on for your XXX private life'
+    title: 'Buy Strapon for your XXX private life'
     section_id: hero
     component: hero_block.html
     content: >-
