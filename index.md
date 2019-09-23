@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Buy Strap-on for your XXX private life'
     section_id: hero
     component: hero_block.html
     content: >-
@@ -23,11 +23,9 @@ sections:
     component: services_block.html
     subtitle: An optional subtitle of the section
     serviceslist:
-      - title: Service Title
+      - title: Hi, I am Strapya
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Want to experience a different sexual experience? Buy a new cool Strapon for you or Or your sexual partner!
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
